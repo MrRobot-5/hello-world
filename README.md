@@ -1,2 +1,5 @@
 # hello-world
-Collection of my stuff
+
+Hey everybody !
+Here to learn something new ! 
+Also hoping to learn more interesting stuff !
